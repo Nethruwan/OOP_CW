@@ -1,0 +1,24 @@
+kusal
+chathuranga
+2001-01-01
+23434342
+1
+cosmetic dermatology
+nethruwan
+dhansankha
+2002-02-02
+23324343
+2
+medical dermatology
+Aermathilaka
+Anuga
+2002-02-02
+23324343
+3
+paediatric dermatology
+Aanil
+vika
+2002-02-02
+23324343
+4
+medical dermatology
